@@ -25,3 +25,9 @@ No te pierdas ninguna actualización. Completa el formulario de suscripción par
 - **CSS3**: Estilos y diseño (incluyendo el modo oscuro)
 - **JavaScript**: Funcionalidad interactiva, como el cambio a modo oscuro y el manejo del formulario
 
+### Cambios realizados
+- Se agregó un pie de página en `index.html` con enlaces a redes sociales (Twitter, Facebook, Instagram).
+- Se modificó el color del título principal (`<h1>`) en `css/styles.css` para mejorar la estética.
+
+
+
